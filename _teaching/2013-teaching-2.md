@@ -3,7 +3,6 @@ title: "AP Biology Teacher"
 collection: teaching
 type: "High School"
 permalink: /teaching/2013-teaching-1
-venue: "University 1, Department"
 venue: "E.L Haynes Public Charter High School"
 date: 2013-06-24 through 2014-06-04
 location: "Washington, DC"
