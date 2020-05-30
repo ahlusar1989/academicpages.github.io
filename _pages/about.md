@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Saran Ahluwalia Introduction"
+title: "Saran Ahluwalia: Scientist, Educator, Student"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
