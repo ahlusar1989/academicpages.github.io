@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Saran Ahluwalia"
-  avatar           : "bio.jpeg"
+  avatar           : "bio.jpg"
   bio              : "My primary interests are in applying statistical learning, graphical models and unsupervised machine learning in service of healthcare, education and public service. I hope to continue to marry my prior experience with my passion for the democratization of knowledge through open source development"
   location         : "Raleigh, North Carolina"
   employer         : "Cisco Systems Inc."
