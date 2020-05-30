@@ -1,4 +1,4 @@
-	---
+---
 title: "Replication and Application Study of Joint Clustering to Correlated Variables"
 collection: publications
 permalink: /publication/2020-05-01-paper-title-number-2
