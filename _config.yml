@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Saran Ahluwalia"
-  avatar           : "saran.png"
+  avatar           : "bio.jpeg"
   bio              : "My primary interests are in applying statistical learning, graphical models and unsupervised machine learning in service of healthcare, education and public service. I hope to continue to marry my prior experience with my passion for the democratization of knowledge through open source development"
-  location         : "Raleigh, North Carolina, United States of America"
-  employer         : "Cisco Systems Inc., Advanced Security Group (ASIG)"
+  location         : "Raleigh, North Carolina"
+  employer         : "Advanced Security Group (ASIG) - Cisco"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
