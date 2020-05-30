@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Saran Ahluwalia Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Greetings and welcome to my personal site!
+Greetings and welcome!
 ======
 Briefly, I am a former biomedical scientist, educator  - in Washington DC - and now, after several years working as a software engineer, data scientist, machine learning researcher, I am now serving as a researcher within the Advanced Security Initiatives Group within Cisco Security and Trust Orrganization. Here I have had the pleasure on - amongst others: 
 

@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Neuroscience and Anthropology, University of Michigan, 2011
+* Postgraduate Studies - Economics, Harvard Business School, 2015
+* MSc. Statistics and Applied Mathematics, North Carolina State University, expected (2021)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* May 2019 - Present: Data Scientist
+  * Cisco Systems Incorporated - Security and Trust Organization
+  * Achievements
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
@@ -29,12 +29,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scala
+* Fluency in scientific computing and machine learning 
+  * Pytorch
+  * SciPy, scikit-learn, 
+  * PyMC3
+* Distributed Computing and Data Engineering
 
 Publications
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
