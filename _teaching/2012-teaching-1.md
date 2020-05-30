@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "Capital Teaching Resident"
+collection: teachin"g
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "E.L Haynes Public Charter High School"
+date: 2012-06-24 through 2013-06-04
+location: "Washington, DC"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
