@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-Greetings and welcome!
-======
+<!-- Greetings and welcome!
+====== -->
 Briefly, I was a biomedical scientist and educator serving the District of Columbia and Montgomery County. Later, after several years working as a software engineer, data scientist, machine learning researcher, I am now serving as a researcher within the Advanced Security Initiatives Group within Cisco Security and Trust Orrganization. Here I have had the pleasure on - amongst others: 
 
 1. Developing Bayesian estimation for anomaly deteection and fraud and changepoint detection in time series

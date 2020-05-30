@@ -3,7 +3,7 @@ title: "Replication and Application Study of Joint Clustering"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper was a part of my graduate coursework in Bayesian Statistics'
-date: 2020-10-01
+date: 2020-01
 venue: 'Unpublished manuscript'
 paperurl: 'http://ahlusar1989.github.io/files/joint_clustering_paper.pdf'
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).' -->s
