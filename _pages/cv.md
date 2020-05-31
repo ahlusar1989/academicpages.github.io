@@ -26,7 +26,7 @@ Work and Research experience
     4. Created ARIMA, SARIMA and AR models for extreme-event forecasting of revenue
     5. Applied survival analysis estimation for user engagement studies for compliance training
     6. Presented work to executive leadership and liased with stakeholders for continual feedback
-  * Supervisor: Mr. Joe Gipson and Mr. Jeff Schutt
+  <!-- * Supervisor: Mr. Joe Gipson and Mr. Jeff Schutt -->
 
 * August 2019 - March 2019: Research Assistant
   * North Carolina State University
@@ -50,7 +50,7 @@ Work and Research experience
     2. Architected and implemented a proof-of-concept event-driven microservice, written in Golang, that leverages RabbitMQ as a broker and Redis as a persistent backend. Built additional configuration for client to also accommodate Amazon SQS and Memcache as a job queue. 
     3. Developed custom API schema validator package in order to prevent invalid response and requests to be received from third-party vendor applications. The impetus for this features was to adapt to the lack of a consumer-driven contract implementation.
     4. Created and presented a workshop on advanced functional Java concepts for machine learning
-  * Supervisor: Ms. Julie Clayton    
+  <!-- * Supervisor: Ms. Julie Clayton     -->
 
 * December 2017 - October 2018: Research Assistant
   * North Carolina State University
@@ -71,14 +71,14 @@ Work and Research experience
   * Achievements:
     1. Cofounding member Infrastructure Team building service architecture, data engineering tools and data securitization middleware. This included reqriting roles and permissions management for all applications and building a core data platform to provision all applications with proprietary customer data.
     2. Rearchitected entire front-end of legacy product into mobile-first application – delivered $40,000 in revenue within first two weeks of re-release: Event Sales Solution
-  * Supervisor: Mr. Hunter Powers
+  <!-- * Supervisor: Mr. Hunter Powers -->
 
 * April 2016 - November 2016: Software Engineer
   * DivvyCloud
   * Achievements:
   1. Spearheaded the development of an automated testing, orchestration and deployment framework using Docker, Python and AWS S3
   2. Prototyped and deployed memory and request monitoring data pipeline for production deployments using Elasticsearch, Akka, and Scala. Result: Reduced false positive rate for customer-reported memory leaks and excessive resource utilization by 72% in one quarter
-  * Supervisor: Mr. Chris Deramus
+  <!-- * Supervisor: Mr. Chris Deramus -->
 
 * June 2015 - March 2016: Associate Technologist
   * Wynyard Group
