@@ -19,8 +19,8 @@ Along the way I was privileged to work with [Dr. Eric Laber](http://www.laber-la
 
 1. Developing Bayesian estimation with applications to both fraud and change point detection in time series
 2. Building and evaluating deep learning NLP models for customized search and classification.
-3. Formulating and implementing propensity scoring methods and matching heuristics in order to capture average treatment effects from different treatment regimenss
-4. Developing mixed effects models in order to account for missing data and variability in data collection — check out one reflection post regarding this!
+3. Formulating and implementing propensity scoring methods and matching heuristics in order to capture average treatment effects from different treatment regimens
+4. Developing mixed effects models in order to account for missing data and variability in data collection
 5. Applying survival analysis in order to predict when user engagement decline
 6. Applying distributed computing and data parallelism to device telemetry in order to detect anomalies in both time and space.
 
