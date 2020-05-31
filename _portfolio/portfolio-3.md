@@ -1,6 +1,6 @@
 ---
 title: "Quora Insincere Questions Classification Challenge"
-excerpt: "Developed a GRU capsule network for classifiying "
+excerpt: "Developed a GRU capsule network for Kaggle competition"
 collection: portfolio
 date: 2018-12-24
 ---
