@@ -11,14 +11,16 @@ redirect_from:
 
 <!-- Greetings and welcome!
 ====== -->
-Briefly, I was a biomedical scientist and educator serving the District of Columbia and Montgomery County. Later, after several years working as a software engineer, data scientist, machine learning researcher, I am now serving as a researcher within the Advanced Security Initiatives Group (ASIG) within Cisco's Security and Trust Organization. Here I have had the pleasure to work on myriad projects that afford me the opportunity to apply and to learn new techniques in optimization, statistics and mathematics. Among these are: 
+I am a former neuroscientist and educator who served the District of Columbia and Montgomery County. Most recently, I have spent the last five years working as a data scientist, machine learning researcher, and software engineer working across national security, finance, hositality and security domains.
 
-1. Developing Bayesian estimation for anomaly deteection and fraud and changepoint detection in time series
-2. Building and evaluating deep learning NLP models for customized search and classification. In particular using a sequence - to - sequence approach (with a twist :) )
-3. Formulating and implementing propensity scoring methods and matching heuristics in order to capture average treatment effects from different treatement regimens  - I am not allowed to share what the study is due to the security classification
-4. Developing mixed effects models in order to account for missing data and variability in data collection - check out one blog post regarding this!
+ I am now serving as a researcher within the Advanced Security Initiatives Group (ASIG) within Cisco's Security and Trust Organization. Here I have had the pleasure to work on myriad projects that afford me the opportunity to apply and to learn new techniques in optimization, statistics and mathematics. Among these are: 
+
+1. Developing Bayesian estimation for anomaly detection and fraud and change point detection in time series
+2. Building and evaluating deep learning NLP models for customized search and classification. In particular using a sequence — to — sequence approach (with a twist :))
+3. Formulating and implementing propensity scoring methods and matching heuristics in order to capture average treatment effects from different treatment regimens — I am not allowed to share what the study is due to the security classification
+4. Developing mixed effects models in order to account for missing data and variability in data collection — check out one blog post regarding this!
 5. Applying survival analysis in order to predict when user engagement decline
-6. Applying distributed computing and data parallelism to device telemtry in order to detect anomalies in both time and space.
+6. Applying distributed computing and data parallelism to device telemetry in order to detect anomalies in both time and space.
 
 Herein you will find a shortlist of research projects, publications, talks and my resume.
 
