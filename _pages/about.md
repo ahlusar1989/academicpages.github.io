@@ -13,6 +13,8 @@ redirect_from:
 ====== -->
 I am a former neuroscientist and educator who served the District of Columbia and Montgomery County. Most recently, I have spent the last five years working as a data scientist, machine learning researcher, and software engineer working across national security, finance, hositality and security domains.
 
+In addition I 
+
  I am now serving as a researcher within the Advanced Security Initiatives Group (ASIG) within Cisco's Security and Trust Organization. Here I have had the pleasure to work on myriad projects that afford me the opportunity to apply and to learn new techniques in optimization, statistics and mathematics. Among these are: 
 
 1. Developing Bayesian estimation for anomaly detection and fraud and change point detection in time series
