@@ -18,8 +18,8 @@ Along the way I was privileged to work with [Dr. Eric Laber](http://www.laber-la
  I am now serving as a researcher within the Advanced Security Initiatives Group (ASIG) within Cisco's Security and Trust Organization. Here I have had the pleasure to work on myriad projects that afford me the opportunity to apply and to learn new techniques in optimization, statistics and mathematics. Among these are: 
 
 1. Developing Bayesian estimation with applications to both fraud and change point detection in time series
-2. Building and evaluating deep learning NLP models for customized search and classification. In particular using a sequence — to — sequence approach (with a twist :))
-3. Formulating and implementing propensity scoring methods and matching heuristics in order to capture average treatment effects from different treatment regimens — I am not allowed to share what the study is due to the security classification
+2. Building and evaluating deep learning NLP models for customized search and classification.
+3. Formulating and implementing propensity scoring methods and matching heuristics in order to capture average treatment effects from different treatment regimenss
 4. Developing mixed effects models in order to account for missing data and variability in data collection — check out one reflection post regarding this!
 5. Applying survival analysis in order to predict when user engagement decline
 6. Applying distributed computing and data parallelism to device telemetry in order to detect anomalies in both time and space.
