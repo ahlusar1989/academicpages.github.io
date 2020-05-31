@@ -1,5 +1,5 @@
 ---
-title: 'Sutton and Barto'
+title: 'Sutton and Barto Part 1'
 date: 2019-01-27
 permalink: /posts/2019/01/blog-post-rl-1/
 tags:
