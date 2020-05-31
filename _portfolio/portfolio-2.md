@@ -1,8 +1,8 @@
 ---
 title: "RNN Joke Generation with TensorFlow, ML5.js and deeplearn.js"
-excerpt: "Elementary example of using ML5.js for prototyping"
+excerpt: "Elementary example of using ML5.js for prototyping language models"
 collection: portfolio
-date: 02018-07-25
+date: 2018-07-25
 ---
 
 Joke Generation Neural Network

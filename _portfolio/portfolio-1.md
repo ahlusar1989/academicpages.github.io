@@ -1,5 +1,5 @@
 ---
-title: "Distant Supervsion for classifying the sentiment of Twitter messages using MLlib"
+title: "Distant Supervision for classifying the sentiment of Twitter messages using MLlib"
 excerpt: "Spark MLib with Akka, Play and ReactJS"
 collection: portfolio
 date: 2016-11-14

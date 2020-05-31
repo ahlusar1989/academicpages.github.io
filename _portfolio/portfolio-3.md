@@ -1,15 +1,12 @@
 ---
-title: "Quora-Insincere-Questions-Classification"
-excerpt: "Developed a GRU capsule network"
+title: "Quora Insincere Questions Classification Challengee"
+excerpt: "Developed a GRU capsule network for classifiying "
 collection: portfolio
-date: 2018-07-25
+date: 2018-12-24
 ---
 
-Joke Generation Neural Network
+This is how I spent my week before Christmas of 2018:
 
-Multi-layer Recurrent Neural Network (RNN, LSTM) for character-level language models in Python (Tensorflow) and modified to work with JavaScript (deeplearn.js, ML5.js)
+Notebooks are [here](https://github.com/ahlusar1989/Quora-Insincere-Questions-Classification).
 
-Inspired by:
-
-1. [Sherjil Ozair's Char-RNN](https://github.com/sherjilozair/char-rnn-tensorflow)
-2. [ml5js example](https://github.com/ml5js/ml5-library/tree/master/training/lstm)
+[Kaggle Competition Description](https://www.kaggle.com/c/quora-insincere-questions-classification).
