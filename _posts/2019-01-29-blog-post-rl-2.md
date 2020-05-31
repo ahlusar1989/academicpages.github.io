@@ -1,6 +1,6 @@
 ---
 title: 'Sutton and Barto Part 2'
-date: 2019-01-27
+date: 2019-01-29
 permalink: /posts/2019/01/blog-post-rl-2/
 tags:
   - reinforcement learning
