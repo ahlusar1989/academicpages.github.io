@@ -1,11 +1,11 @@
 ---
-title: "Quora Insincere Questions Classification Challengee"
+title: "Quora Insincere Questions Classification Challenge"
 excerpt: "Developed a GRU capsule network for classifiying "
 collection: portfolio
 date: 2018-12-24
 ---
 
-This is how I spent my week before Christmas of 2018:
+This is how I spent my month before Christmas of 2018:
 
 Notebooks are [here](https://github.com/ahlusar1989/Quora-Insincere-Questions-Classification).
 
