@@ -20,7 +20,7 @@ Work and Research experience
 * <em>May 2019 - Present: Data Scientist<em>
   * Cisco Systems Incorporated - Security and Trust Organization
   * ***Achievements***:
-    1. Spearheaded new statistical learning apporach for identifying counterfeit in telemetry data 
+    1. Spearheaded new statistical learning approach for identifying counterfeit in telemetry data 
     2. Submitted new patent for anomaly detection in defect-tracking systems for development artifacts
     3. Implemented POC novel deep learning bi-LSTM archiecture for search and classification of forensic evidence
     4. Created ARIMA, SARIMA and AR models for extreme-event forecasting of revenue
@@ -31,7 +31,7 @@ Work and Research experience
 * <em>August 2019 - March 2020: Research Assistant<em>
   * North Carolina State University
   * ***Achievements***:
-    1. Developed online-training and batch experiementation architecture for transfer learning
+    1. Developed online-training and batch experimentation architecture for transfer learning
     2. Worked on theoretical derivation of function approximation derivation for off-policy exploration
   * Supervisor: Dr. Eric Laber, Department of Statistics
 
@@ -47,7 +47,7 @@ Work and Research experience
   * Compozed Labs, Allstate
   * ***Achievements***:
     1. Created novel RNN speech generation language model to be integrated into RoadSide Service
-    2. Architected and implemented a proof-of-concept event-driven microservice, written in Golang, that leverages RabbitMQ as a broker and Redis as a persistent backend. Built additional configuration for client to also accommodate Amazon SQS and Memcache as a job queue. 
+    2. Architect and implement a proof-of-concept event-driven microservice, written in Golang, that leverages RabbitMQ as a broker and Redis as a persistent backend. Built additional configuration for client to also accommodate Amazon SQS and Memcache as a job queue. 
     3. Developed custom API schema validator package in order to prevent invalid response and requests to be received from third-party vendor applications. The impetus for this features was to adapt to the lack of a consumer-driven contract implementation.
     4. Created and presented a workshop on advanced functional Java concepts for machine learning
   <!-- * Supervisor: Ms. Julie Clayton     -->
@@ -69,7 +69,7 @@ Work and Research experience
 * <em>December 2016 - July 2017: Software Engineer<em>
   * Social Tables
   * ***Achievements***:
-    1. Cofounding member Infrastructure Team building service architecture, data engineering tools and data securitization middleware. This included reqriting roles and permissions management for all applications and building a core data platform to provision all applications with proprietary customer data.
+    1. Cofounding member of the Infrastructure Team building service architecture, data engineering tools and data securitization middleware. This included rewriting roles and permissions management for all applications and building a core data platform to provision all applications with proprietary customer data.
     2. Rearchitected entire front-end of legacy product into mobile-first application – delivered $40,000 in revenue within first two weeks of re-release: Event Sales Solution
   <!-- * Supervisor: Mr. Hunter Powers -->
 
@@ -113,14 +113,14 @@ Skills
   * BigQuery
   * Apache Arrow
 * Bayesian Estimation and Hierarchical Models:
-  * Latent-Dirichelet Alloation
+  * Latent-Dirichelet Allocation
   * Non-parametric hypothesis testing (two sample, etc.)
   * Clustering with Gaussian Mixtures  
 * Causal Inference Theory and Application including:
   * Propensity Scoring
   * Matching
   * Difference-in-Difference estimation
-  * Mixed Efects Models for hierarchical models
+  * Mixed Effects Models for hierarchical models
 
 
 Publications
