@@ -28,7 +28,7 @@ Work and Research experience
     6. Presented work to executive leadership and liased with stakeholders for continual feedback
   <!-- * Supervisor: Mr. Joe Gipson and Mr. Jeff Schutt -->
 
-* <em>August 2019 - March 2019: Research Assistant<em>
+* <em>August 2019 - March 2020: Research Assistant<em>
   * North Carolina State University
   * ***Achievements***:
     1. Developed online-training and batch experiementation architecture for transfer learning
