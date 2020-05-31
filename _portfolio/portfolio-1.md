@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Distant Supervsion for classifying the sentiment of Twitter messages using MLlib"
+excerpt: "The fundamental idea of sentiment classification used in this work is predicated "
 collection: portfolio
 ---
 
