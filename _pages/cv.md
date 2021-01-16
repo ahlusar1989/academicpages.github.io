@@ -20,12 +20,13 @@ Work and Research experience
 * <em>May 2019 - Present: Data Scientist<em>
   * Cisco Systems Incorporated - Security and Trust Organization
   * ***Achievements***:
-    1. Spearheaded new statistical learning approach for identifying counterfeit in telemetry data 
-    2. Submitted new patent for anomaly detection in defect-tracking systems for development artifacts
-    3. Implemented POC novel deep learning bi-LSTM archiecture for search and classification of forensic evidence
-    4. Created ARIMA, SARIMA and AR models for extreme-event forecasting of revenue
-    5. Applied survival analysis estimation for user engagement studies for compliance training
-    6. Presented work to executive leadership and liased with stakeholders for continual feedback
+    1. Zero-Trust: Developing signal processsing algorithms for detecting privileged insider threats 
+    2. Spearheaded new statistical learning approach for identifying counterfeit in telemetry data
+    3. Submitted new patent for anomaly detection in defect-tracking systems for development artifacts
+    4. Implemented POC novel deep learning bi-LSTM archiecture for search and classification of forensic evidence
+    5. Created ARIMA, SARIMA and AR models for extreme-event forecasting of revenue affects after public disclosures
+    6. Applied survival analysis estimation for user engagement studies for compliance training
+    7. Presented work to executive leadership and liased with stakeholders for continual feedback
   <!-- * Supervisor: Mr. Joe Gipson and Mr. Jeff Schutt -->
 
 * <em>August 2019 - March 2020: Research Assistant<em>
