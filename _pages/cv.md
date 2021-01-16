@@ -20,7 +20,7 @@ Work and Research experience
 * <em>May 2019 - Present: Data Scientist<em>
   * Cisco Systems Incorporated - Security and Trust Organization
   * ***Achievements***:
-    1. Zero-Trust: Developing signal processsing algorithms for detecting privileged insider threats 
+    1. Zero-Trust: Developing signal processing algorithms for detecting privileged insider threats 
     2. Spearheaded new statistical learning approach for identifying counterfeit in telemetry data
     3. Submitted new patent for anomaly detection in defect-tracking systems for development artifacts
     4. Implemented POC novel deep learning bi-LSTM archiecture for search and classification of forensic evidence
